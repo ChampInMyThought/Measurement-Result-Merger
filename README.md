@@ -1,3 +1,3 @@
 # Measurement Result Merger
 
-Merege all the lab results across multiple excel files into one
+Merge all the laboratory results from multiple Excel files into one.
