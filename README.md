@@ -1,3 +1,3 @@
-# Measurement Result Merger
+# OPD_Organic_Tolerance_Analysis
 
-Merge all the laboratory results from multiple Excel files into one.
+This repository is dedicated to data manipulation and analysis using Python, these notebooks are designed to streamline the process of extracting insights from large datasets and performing statistical analysis.
